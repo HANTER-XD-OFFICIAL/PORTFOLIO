@@ -173,21 +173,21 @@ Update:
 🔧 Local Development
 
 Clone Repository:
-
+```
 git clone https://github.com/HANTER-XD-OFFICIAL/PORTFOLIO.git
-
+```
 Open Folder:
-
+```
 cd PORTFOLIO
-
+```
 Run Local Server:
-
+```
 python -m http.server 8000
-
+```
 Open Browser:
-
+```
 http://localhost:8000
-
+```
 ---
 
 📬 Contact
